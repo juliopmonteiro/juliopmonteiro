@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, me chamo Júlio Monteiro👋
 
-<!--
-**juliopmonteiro/juliopmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, atuo como Analista de Dados Pleno na Seazone com o foco em análises estratégicas de desempenho. 
 
-Here are some ideas to get you started:
+Conto com experiência em otimização de performance, análise preditiva e automação de processos. Atuando no desenvolvimento de insights estratégicos para a tomada de decisões e melhoria contínua em ambientes corporativos. Proficiente em ferramentas como SQL, Python e integrações com APIs para visualização e análise de grandes volumes de dados. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focado em transformar dados brutos em informações valiosas para suportar decisões data-driven que impactam diretamente o desempenho e a lucratividade dos negócios.
+
+
+## Ferramentas
+
+* Atuo com ferramentas diversas para Análise de Dados no dia a dia, algumas delas são:
+
+    ![My Skills](https://skillicons.dev/icons?i=py,aws,js,mysql&theme=dark)
+
+* Em estudos rotineiros, tenho projetos e estudos com práticas que me proporcioram contato com:
+
+    ![My Skills](https://skillicons.dev/icons?i=anaconda,sklearn,selenium,tensorflow,opencv&theme=dark)
+
+* Com a gradução em Ciência da Computação em andamento, tenho/tive contato com algumas tecnologias, que detenho conhecimento teórico e práticas pontuais, são elas:
+
+    ![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,postgres&theme=dark)
+## Portifólio
+
+Em contrução!!!
