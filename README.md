@@ -22,7 +22,7 @@ Focado em transformar dados brutos em informações valiosas para suportar decis
     ![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,postgres&theme=dark)
 ## Portifólio
 
-### [Análise de Dados de Recursos Humanos](https://github.com/juliopmonteiro/datascience/tree/main/An%C3%A1lise%20de%20Dados%20-Dep.%20de%20RH) 
+### [📈 Análise de Dados de Recursos Humanos](https://github.com/juliopmonteiro/datascience/tree/main/An%C3%A1lise%20de%20Dados%20-Dep.%20de%20RH) 
 - Este projeto é um estudo de caso de análise de dados aplicado à área de Recursos Humanos (RH). O objetivo é identificar padrões, tendências e fornecer insights valiosos que podem apoiar a tomada de decisão estratégica na gestão de pessoas.
     - 🔧 Tecnologias Utilizadas: Python, Pandas, Numpy, Seaborn, Matplotlib e Sklearn
  
