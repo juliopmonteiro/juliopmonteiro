@@ -26,4 +26,10 @@ Focado em transformar dados brutos em informações valiosas para suportar decis
 - Este projeto é um estudo de caso de análise de dados aplicado à área de Recursos Humanos (RH). O objetivo é identificar padrões, tendências e fornecer insights valiosos que podem apoiar a tomada de decisão estratégica na gestão de pessoas.
     - 🔧 Tecnologias Utilizadas: Python, Pandas, Numpy, Seaborn, Matplotlib e Sklearn
  
+### [📈 Análise de Vendas](https://github.com/juliopmonteiro/datascience/tree/main/An%C3%A1lise%20de%20Dados%20-%20Previs%C3%A3o%20de%20Vendas) 
+- Este projeto busca analisar e prever o comportamento de vendas ao longo do tempo, permitindo decisões mais precisas para otimizar o desempenho do departamento comercial. A análise inclui a identificação de tendências e sazonalidades que impactam o volume de vendas, assim como a aplicação de modelos de previsão para antecipar possíveis cenários futuros.
+    - 🔧 Tecnologias Utilizadas: Python, Meta Prophet, Pandas, Numpy, Seaborn, Matplotlib
+
+      
+ 
 Loading...
