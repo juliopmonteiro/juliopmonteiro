@@ -29,6 +29,10 @@ Focado em transformar dados brutos em informações valiosas para suportar decis
 ### [📈 Análise de Vendas](https://github.com/juliopmonteiro/datascience/tree/main/An%C3%A1lise%20de%20Dados%20-%20Previs%C3%A3o%20de%20Vendas) 
 - Este projeto busca analisar e prever o comportamento de vendas ao longo do tempo, permitindo decisões mais precisas para otimizar o desempenho do departamento comercial. A análise inclui a identificação de tendências e sazonalidades que impactam o volume de vendas, assim como a aplicação de modelos de previsão para antecipar possíveis cenários futuros.
     - 🔧 Tecnologias Utilizadas: Python, Meta Prophet, Pandas, Numpy, Seaborn, Matplotlib
+ 
+### [⚙️ Pipeline ETL - Apache HOP](https://github.com/juliopmonteiro/dataengineer/tree/main/Projeto%20ETL%20-%20Apache%20HOP) 
+- Este projeto consiste na construção de uma pipeline ETL usando o Apache Hop para tratamento e padronização de um conjunto de dados de funcionários obtido do Kaggle. O fluxo realiza transformações básicas e separa os dados em dois grupos: funcionários antigos (que deixaram a empresa) e atuais (que permanecem na empresa). Os dados transformados são então exportados para tabelas no PostgreSQL, gerenciado via pgAdmin.
+    - 🔧 Tecnologias Utilizadas: Apache Hop, PostgreSQL, pgAdmin
 
       
  
