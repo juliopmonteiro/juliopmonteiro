@@ -33,7 +33,10 @@ Focado em transformar dados brutos em informações valiosas para suportar decis
 ### [⚙️ Pipeline ETL - Apache HOP](https://github.com/juliopmonteiro/dataengineer/tree/main/Projeto%20ETL%20-%20Apache%20HOP) 
 - Este projeto consiste na construção de uma pipeline ETL usando o Apache Hop para tratamento e padronização de um conjunto de dados de funcionários obtido do Kaggle. O fluxo realiza transformações básicas e separa os dados em dois grupos: funcionários antigos (que deixaram a empresa) e atuais (que permanecem na empresa). Os dados transformados são então exportados para tabelas no PostgreSQL, gerenciado via pgAdmin.
     - 🔧 Tecnologias Utilizadas: Apache Hop, PostgreSQL, pgAdmin
-
+ 
+### [🎲 Web Scraping e Análise Estatística](https://github.com/juliopmonteiro/datascience/tree/main/Web%20Scraping%20%2B%20An%C3%A1lise%20de%20Dados%20-%20Corrida%20de%20Rua) 
+- Este projeto consiste em uma análise de dados de uma corrida de 10 km realizada em Hillsboro, Oregon, EUA, em junho de 2017. O projeto foi desenvolvido inteiramente em um Jupyter Notebook e inclui o processo de web scraping, seguido pela limpeza, padronização e análise dos dados extraídos.
+    - 🔧 Tecnologias Utilizadas: Requests e Urllib, BeaultifulSoup (bs4), re (Expressõe Regulares), Pandas, Numpy, Matplotlib, Scipy e Pingouin
       
  
 Loading...
